@@ -1,1 +1,1 @@
-$("selecteur").hide();
+$("td").siblings().hide();
